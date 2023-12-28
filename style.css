@@ -41,8 +41,8 @@ body {
 }
 
 .main__paragraphe {
+  color: hsl(220, 15%, 55%);
   margin-inline: 42px;
   margin-block-end: 30px;
   font-size: 15px;
-  opacity: 0.6;
 }
